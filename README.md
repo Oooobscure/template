@@ -1,4 +1,4 @@
-template
+Template
 ========
 
-Oooobscure's template
+This template has been created by Oooobscure.
